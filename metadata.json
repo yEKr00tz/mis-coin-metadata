@@ -1,0 +1,12 @@
+{
+  "name": "Management Information Systems Coin",
+  "symbol": "MIS",
+  "description": "Iskenderun Technical University YBS Department project token.",
+  "image": "https://iste.edu.tr/files/iste_arma.png",
+  "attributes": [
+    {
+      "trait_type": "Department",
+      "value": "MIS"
+    }
+  ]
+}
